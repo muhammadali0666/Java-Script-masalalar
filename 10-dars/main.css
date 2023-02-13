@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #061D25;
+}
+.box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30vh;
+}
+.first{
+  font-size: 30px;
+  color: lightcyan;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+}
+.second{
+  font-size: 100px;
+  color: #fff;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+}
+.third{
+  font-size: 30px;
+  color: #fff;
+  font-family: sans-serif;
+  text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+}
