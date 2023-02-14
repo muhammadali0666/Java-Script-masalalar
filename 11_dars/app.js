@@ -10,7 +10,7 @@
 //   }
 //   getAge() {
 //     console.log(this.age);
-//      } 
+//   } 
 // }
 // let user = new Home("Muhammad", 40);
 // let user2 = new Home("Abu Bakir", 10);
